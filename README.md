@@ -2,8 +2,11 @@
 Code for quantifying the synchronization between external heatwaves (INMET and Ouzeau methods) and indoor thermal extremes (Operative Temperature, Heat Index, Cooling Load) in building simulations.
 
 This repository contains the data analysis scripts used for the study:
-Title: Synchronizing outdoor heatwave detection with indoor thermal extremes: A case study in Brazilian social housing
+
+Title: *Synchronizing outdoor heatwave detection with indoor thermal extremes: A case study in Brazilian social housing*
+
 Presented at: Solar World Congress (SWC) 2025.
+
 Authors: Matheus Korbes Bracht, Ana Paula Melo, and Roberto Lamberts.
 
 
